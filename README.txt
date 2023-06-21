@@ -1,1 +1,1 @@
-Find the average of a list of numbers
+Find the average of a list of numbers from user input
